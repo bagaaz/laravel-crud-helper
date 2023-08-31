@@ -1,6 +1,7 @@
 {
     "name": "bagaaz/laravel-crud-helper",
     "description": "Helper CRUD to Laravel",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -17,6 +18,5 @@
         "psr-4": {
             "Bagaaz\\CrudHelper\\": "src/"
         }
-    },
-    "version": "v1.0.0"
+    }
 }
