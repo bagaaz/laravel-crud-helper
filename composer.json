@@ -2,13 +2,21 @@
     "name": "bagaaz/laravel-crud-helper",
     "description": "Helper CRUD to Laravel",
     "type": "library",
+    "license": "MIT",
+    "authors": [
+	{
+	    "name": "Gabriel Oliveira",
+	    "email": "gabriel.acz.br@gmail.com"
+    	}
+    ],
     "require": {
         "php": ">=8.1",
         "laravel/framework": "^10.0"
     },
     "autoload": {
         "psr-4": {
-            "LaravelCrudHelper\\": "src/"
+            "Bagaaz\\CrudHelper\\": "src/"
         }
-    }
+    },
+    "version": "0.1.0"
 }
